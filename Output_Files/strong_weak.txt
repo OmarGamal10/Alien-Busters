@@ -1,0 +1,36 @@
+Td	ID	  	Tj	Df	Dd	Db
+30	2002	30	0	0	0
+30	2004	30	0	0	0
+30	2006	30	0	0	0
+30	2003	30	0	0	0
+30	2001	30	0	0	0
+30	2005	30	0	0	0
+30	2000	30	0	0	0
+38	2008	38	0	0	0
+38	2009	38	0	0	0
+38	2011	38	0	0	0
+38	2012	38	0	0	0
+38	2007	38	0	0	0
+38	2010	38	0	0	0
+39	2013	38	1	0	1
+
+Battle Result: Earth Army Wins!
+Battle went on for 41 timesteps!
+
+Earth Army Stats: 
+Total units (ES, ET, EG): 25, 3, 5
+% of destructed units relative to total: (ES, ET, EG) 0%, 0%, 0% 
+% of total destructed units relative to total: 0%
+% of total successfully healed units relative to total: 0%
+% of total infected Earth Soldiers relative to total: 0% 
+Average Df, Dd, Db: 0, 0, 0
+Df/Db %: 0%
+Dd/Db %: 0%
+
+Alien Army Stats: 
+Total units (AS, AM, AD): 7, 5, 2
+% of destructed units relative to total: (AS, AM, AD) 100%, 100%, 100%  
+% of total destructed units relative to total: 100%
+Average Df, Dd, Db: 0.0714286, 0, 0.0714286
+Df/Db %: 100%
+Dd/Db %: 0%
